@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.DS_Store
+*.part
+# generated while measuring
+/samples/
+/slideshow.mp4
